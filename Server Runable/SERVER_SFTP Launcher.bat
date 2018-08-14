@@ -1,0 +1,1 @@
+java -jar SERVER_SFTP.jar
